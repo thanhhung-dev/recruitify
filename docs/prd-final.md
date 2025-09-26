@@ -267,9 +267,3 @@ The platform will utilize standard, well-understood web application paradigms to
 ## Next Steps
 
 This PRD is complete and validated. The following prompts should be used to hand off to the next specialists in the workflow.
-
-### UX Expert Prompt
-> Based on the attached PRD, particularly the 'User Interface Design Goals' section and the user-facing stories, please create a detailed UI/UX Specification document (`front-end-spec.md`).
-
-### Architect Prompt
-> Using the attached PRD as the source of truth, especially the 'Technical Assumptions' and all epics/stories, please create the comprehensive full-stack architecture document (`fullstack-architecture.md`).
